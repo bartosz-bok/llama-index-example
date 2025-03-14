@@ -1,0 +1,8 @@
+# project resources
+resources/
+
+# environment directories/variables
+venv/
+
+# other
+.idea
